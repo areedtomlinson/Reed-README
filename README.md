@@ -19,17 +19,17 @@ I strive to work in companies where I am not the best developer. If I am the bes
 
 I believe in the intrinsic and pressing need for diversity and inclusion in the workplace. I grew up priviliged in a number of ways (straight, white, cis-gender male), as did many in this industry. But we cannot let the historical composition of our industry become a confirmation bias about who is qualified or successful here.
 
-#### Standard Operating Procedure
-##### One-on-Ones
+### Standard Operating Procedure
+#### One-on-Ones
 I will try to keep these conversations high-level. If we get into the minutiae of a technical problem you're working on, I've goofed and we should course correct. I will always present praise ***and*** actionable critiques, no matter how well you're doing, so that we have an open dialogoue and won't shy away from hard conversations when they're needed. I will expect you to do the same.
 
-##### OKRs
+#### OKRs
 In the past I have tracked my own OKRs, even when this is not a standard practice organization-wide. I will always make my goals known to my team members and supervisors to keep me accountable and to make it clear what my leadership intent is.
 
-##### Scheduling
+#### Scheduling
 My calendar may not be public but my availability will be. The best way to get dedicated time with me outside of our one-on-ones is the put 15-30 minutes on my calendar. If we need more time and my calendar is full, breakfast or lunch (in-person or on video) is always an option.
 
-##### Open Door
+#### Open Door
 My door is always open, even if it's closed. As a manager, you are my highest priority. If you need to talk, come find me. But if I have a door and it's physically closed or if I'm wearing headphones, message me to schedule a time to talk (unless the issue is pressing).
 
 ### Open Issues
@@ -38,7 +38,7 @@ I can be conflict avoidant, but am working on being more proactive and direct wh
 I love my work and take it very seriously. This has led me to overwork in the past and to take things too personally.
 
 
-## Personal
+### Personal
 If you need to distract me for an hour (perhaps you're performing a heist or caper of some sort), as me about the following:
 - ***My garden.*** Did I go overboard this year? Certainly. But _how_ overboard?
 - ***My small backyard orchard.*** How many jellies and jams have I made?
