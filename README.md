@@ -1,4 +1,4 @@
-## Manager Readme doc for Reed Tomlinson
+## Manager Readme Document for Reed Tomlinson
 
 ### About This Document
 This is a README document for Reed Tomlinson, who was initialized in 1987 and is currently in public beta at V0.8.2. The idea behind this document is that managers, like good software, should come with proper documentation. Think of this as a User Guide for working with, and debugging, me.
