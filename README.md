@@ -1,9 +1,7 @@
 ## Manager Readme doc for Reed Tomlinson (V0.9.2)
 
 ### About This Document
-<table><tr><td valign="top">
-This is a README document for Reed Tomlinson, who was initialized in 1987 and is currently in public beta at V0.8.2. The idea behind this document is that managers, like good software, should come with proper documentation. Think of this as a User Guide for working with, and debugging, me -->
-</td><td width="20%"><img src="pic1.jpg" width="100%"></td></tr></table>
+This is a README document for Reed Tomlinson, who was initialized in 1987 and is currently in public beta at V0.8.2. The idea behind this document is that managers, like good software, should come with proper documentation. Think of this as a User Guide for working with, and debugging, me.
 
 ### Background
 I have always loved software. Like many developers from privileged backgrounds, I grew up with computers in my house and ready access to resources for learning and exploring the internet and the world of software development. Now I strive to understand what makes great software, and to help others become great at what they do.
@@ -45,3 +43,8 @@ If you need to distract me for an hour (perhaps you're performing a heist or cap
 - ***Anything fermented*** (homebrewed beer, kombucha, kimchi, etc). What have I brewed/pickled lately?
 - ***My dog, Ravioli.*** He _**is**_ the best boy, thank you for noticing!
 - ***Space.*** What's my favorite space fact? Here are 10, you pick.
+
+
+I look forward to meeting you!
+
+<img src="pic1.jpg" width="30%" align="center">
