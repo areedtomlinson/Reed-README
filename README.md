@@ -37,7 +37,7 @@ I love my work and take it very seriously. This has led me to overwork in the pa
 
 
 ### Personal
-If you need to distract me for an hour (perhaps you're performing a heist or caper of some sort), as me about the following:
+If you need to distract me for an hour (perhaps you're performing a heist or caper of some sort), ask me about the following:
 - ***My garden.*** Did I go overboard this year? Certainly. But _how_ overboard?
 - ***My small backyard orchard.*** How many jellies and jams have I made?
 - ***Anything fermented*** (homebrewed beer, kombucha, kimchi, etc). What have I brewed/pickled lately?
