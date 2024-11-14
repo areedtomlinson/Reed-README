@@ -18,6 +18,27 @@ I strive to work in companies where I am not the best developer. If I am the bes
 I believe in the intrinsic and pressing need for diversity and inclusion in the workplace. I grew up priviliged in a number of ways (straight, white, cis-gender male), as did many in this industry. But we cannot let the historical composition of our industry become a confirmation bias about who is qualified or successful here.
 
 ### Standard Operating Procedure
+#### Communication Means
+I believe the most **efficient** communication happens in real-time voice conversations. In decreasing order of preference:
+- Face-to-face
+- Video call
+- Phone call
+
+I believe the most **effective** communication happens in writing. In decreasing order of preference:
+- Written proposals and documentation
+- Presentations (with voiceover)
+- Emails
+- Team communication apps like Slack
+
+Whenever time allows, I prefer written documents (proposals, diagrams, etc) as a means of effective, transparent and self-documenting communication.
+
+#### Communication Methods
+I believe in constructive debate as a means to build consensus and arrive at better ideas. Past colleagues have referred to this as "entering the dojo" where ideas are wrestled over (respecfully, with data and metrics) such that the ideas, and the technical planning ability of everyone involved, come out stronger.
+
+I write in order to clarify my thinking, but I also write in order to try out ideas. By putting ideas to paper, I can see where they hold up and where they're indefinsible or flawed. It is very common for me to start with one opinion, put it to paper, and change my opinion in the process of writing it out.
+
+Sometimes I write proposals as a means of invoking Cunninham's Law (_"the best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer"_). Even when that's not my intent, everything I put to paper should be challenged; I am putting ideas on paper so that they are (hopefully) clear and unambiguous and therefore easier to form a rebuttal to.
+
 #### One-on-Ones
 I will try to keep these conversations high-level. If we get into the minutiae of a technical problem you're working on, I've goofed and we should course correct. I will always present praise ***and*** actionable critiques, no matter how well you're doing, so that we have an open dialogoue and won't shy away from hard conversations when they're needed. I will expect you to do the same.
 
